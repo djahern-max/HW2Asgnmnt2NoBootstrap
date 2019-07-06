@@ -215,4 +215,15 @@ textarea {
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
-  }
+}
+
+@media (min-width: 980px) {
+
+}
+
+@media (min-width: 768px) {
+ 
+}
+@media (min-width: 640px) {
+ 
+}
