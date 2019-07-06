@@ -225,5 +225,9 @@ textarea {
  
 }
 @media (min-width: 640px) {
+
+   .container {
+       width: 100%;
+   } 
  
 }
